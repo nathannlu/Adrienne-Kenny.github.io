@@ -5115,6 +5115,11 @@ small {
   color: white;
 }
 
+.cta-btn i {
+  padding-left: 1rem;
+  color: white !important;
+}
+
 .fa-search {
   color: #136ffb;
   top: .7rem;
