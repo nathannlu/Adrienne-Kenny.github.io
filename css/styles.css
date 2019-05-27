@@ -5251,6 +5251,12 @@ small {
   padding-bottom: 2rem;
 }
 
+@media only screen and (max-width: 576px) {
+  .text-container {
+    height: auto;
+  }
+}
+
 @keyframes revealText {
   0% {
     margin-top: -20rem;
